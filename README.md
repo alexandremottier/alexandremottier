@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alexandremottier
-- 👀 I’m interested in IT, nature, music
-- 🌱 I’m currently learning PowerShell
+- 👀 I’m interested in IT, photography, nature, music
+- 🌱 I’m currently learning PowerShell, Ansible, PHP
 - 📫 Available at am@am-networks.fr
 
 <!---
