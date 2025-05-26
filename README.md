@@ -5,6 +5,8 @@
 
 ### PGP Key ###
 
+PGP Key Fingerprint : **E076 B49D 668E B28E F601 C332 6EE0 9465 3363 CA11**
+
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
